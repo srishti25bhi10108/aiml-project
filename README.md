@@ -22,5 +22,10 @@ README.md
 
 ## Author
 Name:Srishti Deshpande
+
 Course:B.Tech
+
 Registration number: 25BHI10108
+
+Course code: CSA2001
+
